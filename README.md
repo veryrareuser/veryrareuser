@@ -4,6 +4,10 @@ Information Systems student at **Universitas Pelita Harapan** based in Tangerang
 
 I spend most of my time on front-end work, but I'm happiest when a project has a real backend behind it: scheduling systems, dashboards, and anything that needs persistence.
 
+### Portfolio
+
+**[veryrareuser.github.io/portfolio](https://veryrareuser.github.io/portfolio/)** — my portfolio site, built with React, TypeScript and Tailwind in a brutalist style.
+
 ---
 
 ## Tech Stack
@@ -54,6 +58,7 @@ I spend most of my time on front-end work, but I'm happiest when a project has a
 | --- | --- |
 | **GitHub** | [@veryrareuser](https://github.com/veryrareuser) |
 | **Instagram** | [@_carlossaragih](https://instagram.com/_carlossaragih) |
+| **Phone** | [](tel:+) |
 | **Location** | Tangerang, Indonesia |
 
 ---
