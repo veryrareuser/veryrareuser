@@ -58,7 +58,7 @@ I spend most of my time on front-end work, but I'm happiest when a project has a
 | --- | --- |
 | **GitHub** | [@veryrareuser](https://github.com/veryrareuser) |
 | **Instagram** | [@_carlossaragih](https://instagram.com/_carlossaragih) |
-| **Phone** | [](tel:+) |
+| **Email** | [carlossaragih26@gmail.com](mailto:carlossaragih26@gmail.com) |
 | **Location** | Tangerang, Indonesia |
 
 ---
